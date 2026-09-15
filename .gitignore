@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local learning notes (do not push)
+*-learning-notes.md
+*-learning-guide.md
+*-step-guide.md
+*-quick-guide.md
+docs-local/
